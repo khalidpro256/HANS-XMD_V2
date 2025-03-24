@@ -9,11 +9,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
+global.ownernomer = "256770178719"
+global.ownername = "SEGZILLOR"
 global.ytname = "HANSTZ-TECH"
 global.socialm = "GitHub: Mrhanstz"
-global.location = "AFRICA, TANZANIA, DODOMA"
+global.location = "AFRICA, UGANDA, KAMPALA"
 
 global.ownernumber = '255756530143'  //creator number
 global.ownername = 'HANSTZ' //owner name
@@ -34,15 +34,15 @@ global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
+global.autoRecording = false  //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false  //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
-global.autoreact = true // This is For Auto React 
-global.welcome = true // For Welcome massage groups
+global.autoreact = false  // This is For Auto React 
+global.welcome = false  // For Welcome massage groups
 global.autoreply = true //Is For Autoreply massage When Your Offline the bot must be reply massages
 
 //menu type 
